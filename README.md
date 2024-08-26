@@ -46,6 +46,14 @@ To run this portfolio locally, follow these steps:
 </a>
 
 ---
+
+## Visit the Website
+
+You can view the live version of the portfolio website by visiting the following link:
+
+[**Nupur Pusha's Portfolio**](https://nupurpusha.github.io/My-Portfolio/nupur.html)
+
+---
 ## Contact
 
 For any questions or feedback, feel free to reach out:
