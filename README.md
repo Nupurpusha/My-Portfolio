@@ -38,11 +38,13 @@ To run this portfolio locally, follow these steps:
 </a>
 
 ---
-## 🤝Contributing
+## Contact
 
-We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/My-Portfolio/issues) or submit a pull request with improvements or new features.
+For any questions or feedback, feel free to reach out:
 
-![Contribute](https://forthebadge.com/images/badges/built-with-love.svg)
+- **Email:** [nupurpusha26@gmail.com](mailto:nupurpusha26@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nupur-pusha-b0aba8312/)
+- **GitHub:** [Your GitHub Profile](https://github.com/Nupurpusha)
 
 ---
 
