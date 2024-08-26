@@ -12,7 +12,7 @@
 
 Welcome to my portfolio! This project showcases my skills in frontend development, including interactive animations and responsive design.
 
-![Demo GIF](link-to-your-gif.gif)
+![Demo GIF](https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif)
 
 ## Features
 - Dynamic animations for an interactive experience.
