@@ -19,8 +19,11 @@ To run this portfolio locally, follow these steps:
 
 \```bash
 git clone https://github.com/Nupurpusha/My-Portfolio.git
+
 cd My-Portfolio
+
 open index.html
+
 \```
 
 ---
