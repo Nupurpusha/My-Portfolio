@@ -42,9 +42,10 @@ To run this portfolio locally, follow these steps:
 
 For any questions or feedback, feel free to reach out:
 
-- **Email:** [Email](mailto:nupurpusha26@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nupur-pusha-b0aba8312/)
-- **GitHub:** [GitHub Profile](https://github.com/Nupurpusha)
+[![Email](https://img.shields.io/badge/Email-nupurpusha26@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nupurpusha26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nupur%20Pusha-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nupur-pusha-b0aba8312/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nupurpusha-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nupurpusha)
+
 
 ---
 
