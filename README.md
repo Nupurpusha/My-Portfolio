@@ -12,7 +12,7 @@
 
 Welcome to my portfolio! This project showcases my skills in frontend development, including interactive animations and responsive design.
 <p align="center">
-  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif" alt="Demo GIF" width="600" height="400">
+  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif" alt="Demo GIF" width="1000" height="500">
 </p>
 
 
