@@ -16,10 +16,6 @@ Welcome to my portfolio! I am a passionate frontend developer with experience in
 ## Getting Started
 
 To run this portfolio locally, follow these steps:
-<p align="center">
-  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/carbon%20(6).png" alt="getting started" width="500" height="300">
-</p>
-
 1. **Clone the Repository**
 
    Open your terminal and run the following command to clone the repository:
