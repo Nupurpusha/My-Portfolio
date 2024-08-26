@@ -16,15 +16,9 @@ Welcome to my portfolio! I am a passionate frontend developer with experience in
 ## Getting Started
 
 To run this portfolio locally, follow these steps:
-
-\```bash
-git clone https://github.com/Nupurpusha/My-Portfolio.git
-
-cd My-Portfolio
-
-open index.html
-
-\```bash
+<p align="center">
+  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/carbon(6).png" alt="getting started" width="1000" height="500">
+</p>
 
 ---
 
