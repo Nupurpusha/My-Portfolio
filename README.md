@@ -42,9 +42,9 @@ To run this portfolio locally, follow these steps:
 
 For any questions or feedback, feel free to reach out:
 
-- **Email:** [nupurpusha26@gmail.com](mailto:nupurpusha26@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nupur-pusha-b0aba8312/)
-- **GitHub:** [Your GitHub Profile](https://github.com/Nupurpusha)
+- **Email:** [Email](mailto:nupurpusha26@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nupur-pusha-b0aba8312/)
+- **GitHub:** [GitHub Profile](https://github.com/Nupurpusha)
 
 ---
 
