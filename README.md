@@ -20,6 +20,18 @@ To run this portfolio locally, follow these steps:
   <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/carbon%20(6).png" alt="getting started" width="500" height="300">
 </p>
 
+1. **Clone the Repository**
+
+   Open your terminal and run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/Nupurpusha/My-Portfolio
+2. **Navigate to the Project Directory**
+
+    ```bash
+    cd My-Portfolio
+3. **Open the Portfolio**
+   Open `nupur.html` in your web browser to view the portfolio.
 ---
 
 ## Technologies Used
