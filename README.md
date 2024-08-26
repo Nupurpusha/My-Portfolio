@@ -15,10 +15,9 @@ Welcome to my portfolio! This project showcases my skills in frontend developmen
 ![Demo GIF](link-to-your-gif.gif)
 
 ## Features
-- Responsive design for all devices.
 - Dynamic animations for an interactive experience.
 - Integrated contact form.
-- Projects showcased with detailed descriptions.
+- Projects showcased with descriptions.
 
 ## Getting Started
 To run this portfolio locally, follow these steps:
