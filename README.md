@@ -9,8 +9,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="margin: 20px;" width="200" height="40">
   </a>
-
-Welcome to my portfolio! This project showcases my skills in frontend development, including interactive animations and responsive design.
+Welcome to my portfolio! I am a passionate frontend developer with experience in machine learning. This website showcases my skills in creating modern and interactive web applications using HTML, CSS, JavaScript, and Bootstrap.
 <p align="center">
   <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif" alt="Demo GIF" width="1000" height="500">
 </p>
