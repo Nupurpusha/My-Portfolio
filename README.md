@@ -1,7 +1,7 @@
 # **My Portfolio**
 Welcome to my portfolio! I am a passionate frontend developer with experience in machine learning. This website showcases my skills in creating modern and interactive web applications using HTML, CSS, JavaScript, and Bootstrap.
 <p align="center">
-  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif" alt="Demo GIF" width="1000" height="500">
+  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif" alt="Demo GIF" width="500" height="300">
 </p>
 
 ---
