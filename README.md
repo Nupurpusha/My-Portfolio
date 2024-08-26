@@ -11,8 +11,10 @@
   </a>
 
 Welcome to my portfolio! This project showcases my skills in frontend development, including interactive animations and responsive design.
+<p align="center">
+  <img src="https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif" alt="Demo GIF" width="600" height="400">
+</p>
 
-![Demo GIF](https://github.com/Nupurpusha/My-Portfolio/blob/main/demo.gif.gif)
 
 ## Features
 - Dynamic animations for an interactive experience.
