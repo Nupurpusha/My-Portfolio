@@ -37,4 +37,21 @@ To run this portfolio locally, follow these steps:
     <img src="https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 20px;" width="200" height="40">
 </a>
 
+---
+## 🤝Contributing
+
+We welcome contributions! Please [open an issue](https://github.com/Nupurpusha/My-Portfolio/issues) or submit a pull request with improvements or new features.
+
+![Contribute](https://forthebadge.com/images/badges/built-with-love.svg)
+
+---
+
+## 📜License
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/My-Portfolio/blob/main/LICENSE.txt) file for more details.
+
+
+---
+
 
