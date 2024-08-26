@@ -24,7 +24,7 @@ cd My-Portfolio
 
 open index.html
 
-\```
+\```bash
 
 ---
 
